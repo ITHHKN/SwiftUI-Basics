@@ -1,0 +1,41 @@
+"welcome.title" = "Welcome to SwiftUI";
+"counter.title" = "Counter App";
+"counter.value" = "Count: %d";
+"button.increment" = "Increment";
+"greeting.hello" = "Hello, %@";
+"button.showGreeting" = "Show Greeting";
+"button.reset" = "Reset";
+"list.table" = "Table List";
+"input.name.placeholder" = "Enter Name";
+"nav.detailView" = "Detail View";
+"home.title" = "Home Screen";
+
+"detail.page.title" = "Detail Page";
+"detail.page.subtitle" = "I am showing detail View";
+"detail.page.passedName" = "Passed from Home screen is: %@";
+"nav.title.detail" = "Detail View";
+
+"fruits.apple" = "Apple";
+"fruits.orange" = "Orange";
+"fruits.banana" = "Banana";
+"fruits.pineapple" = "Pineapple";
+
+"projects.header" = "Projects";
+"nav.title.projects" = "Projects";
+"nav.title.projectDetail" = "Project Detail";
+
+"step.financial.title" = "Financial Review";
+"step.financial.subtitle" = "Verify documents and approvals.";
+"step.allocate.title" = "Allocation";
+"step.allocate.subtitle" = "Assign villas and contracts.";
+"step.handover.title" = "Handover";
+"step.handover.subtitle" = "Complete the final delivery.";
+
+"detail.status.header" = "Project Status";
+"detail.status.description" = "Review the latest status and next steps.";
+"detail.status.view" = "View";
+
+"project.location" = "Location: %@";
+"project.available" = "%d Villas Available";
+
+"error.projects.fetch" = "Unable to load projects. Please try again.";

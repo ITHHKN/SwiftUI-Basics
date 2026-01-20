@@ -1,0 +1,41 @@
+"welcome.title" = "مرحبًا بك في SwiftUI";
+"counter.title" = "تطبيق العداد";
+"counter.value" = "العدد: %d";
+"button.increment" = "زيادة";
+"greeting.hello" = "مرحبًا، %@";
+"button.showGreeting" = "إظهار التحية";
+"button.reset" = "إعادة تعيين";
+"list.table" = "قائمة الجدول";
+"input.name.placeholder" = "أدخل الاسم";
+"nav.detailView" = "التفاصيل";
+"home.title" = "الصفحة الرئيسية";
+
+"detail.page.title" = "صفحة التفاصيل";
+"detail.page.subtitle" = "أعرض صفحة التفاصيل";
+"detail.page.passedName" = "تم الإرسال من الصفحة الرئيسية: %@";
+"nav.title.detail" = "صفحة التفاصيل";
+
+"fruits.apple" = "تفاح";
+"fruits.orange" = "برتقال";
+"fruits.banana" = "موز";
+"fruits.pineapple" = "أناناس";
+
+"projects.header" = "المشاريع";
+"nav.title.projects" = "المشاريع";
+"nav.title.projectDetail" = "تفاصيل المشروع";
+
+"step.financial.title" = "المراجعة المالية";
+"step.financial.subtitle" = "تحقق من المستندات والموافقات.";
+"step.allocate.title" = "التخصيص";
+"step.allocate.subtitle" = "تعيين الفلل والعقود.";
+"step.handover.title" = "التسليم";
+"step.handover.subtitle" = "إكمال التسليم النهائي.";
+
+"detail.status.header" = "حالة المشروع";
+"detail.status.description" = "راجع أحدث الحالة والخطوات التالية.";
+"detail.status.view" = "عرض";
+
+"project.location" = "الموقع: %@";
+"project.available" = "المتاح: %d فيلا";
+
+"error.projects.fetch" = "تعذر تحميل المشاريع. حاول مرة أخرى.";
